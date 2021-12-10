@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<table style="width: 100%; border: 0; padding: 0; margin: 0;">
+<table>
   <tr>
     <td>
       <a href="https://www.credly.com/badges/5e4cbcc8-595c-4c05-8028-34c2a60ec632/public_url">
