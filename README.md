@@ -1,5 +1,7 @@
 # Hi there 👋
 
+Check out my AWS Certifications:
+
 <table>
   <tbody>
     <tr>
