@@ -1,8 +1,8 @@
 # Hi there 👋
 
-<table width="100%">
-  <tbody width="100%">
-    <tr width="100%">
+<table style="width: 100%; display: none;">
+  <tbody>
+    <tr>
       <td>
         <a href="https://www.credly.com/badges/5e4cbcc8-595c-4c05-8028-34c2a60ec632/public_url">
           <img src="https://images.credly.com/size/220x220/images/1d99a6ef-09ae-4b28-866e-f12ab60a487e/AWS-BigData-Specialty-2020.png" width="100" height="100">
