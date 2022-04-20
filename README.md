@@ -19,7 +19,6 @@ For me, of course! 😺
 - [Python](Python.md)
 - [AWS](AWS.md)
 - [Databricks](Databricks.md)
-
 - [Apple](https://www.apple.com)
 - [Via Consulting](https://www.viaconsulting.com.br)
 - [VTEX](https://www.vtex.com)
