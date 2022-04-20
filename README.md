@@ -12,7 +12,7 @@ Check out some of my professional and personal public virtual places
 - [Instagram](https://www.instagram.com/mbiemann) 🖼️
 - [Email](mailto:mbiemann@gmail.com) 📧
 
-## Somethings interesting
+## Interesting things
 
 For me, of course! 😺
 
