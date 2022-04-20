@@ -4,7 +4,7 @@ I hope you are well and safe!
 
 ## Let's keep in touch
 
-Check out my professional and personal virtual public places
+Check out some of my professional and personal public virtual places
 
 - [Website](http://mbiemann.com) 🕸️
 - [GitHub](https://github.com/mbiemann) :octocat: 👈 *you are here* 🪧
