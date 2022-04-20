@@ -9,7 +9,7 @@ Check out my professional and personal virtual public places
 - [Website](http://mbiemann.com) 🕸️
 - [GitHub](https://github.com/mbiemann) :octocat: 👈 *you are here* 🪧
 - [Linkedin](https://www.linkedin.com/in/mbiemann) ☕
-- [Instagram](https://www.instagram.com/mbiemann) :
+- [Instagram](https://www.instagram.com/mbiemann) 🖼️
 - [Email](mailto:mbiemann@gmail.com) 📧
 
 ## Somethings interesting
