@@ -9,6 +9,7 @@ Check out some of my professional and personal public virtual places:
 - [Website](http://mbiemann.com) 🕸️
 - [GitHub](https://github.com/mbiemann) :octocat: 👈 *you are here* 🪧
 - [Linkedin](https://www.linkedin.com/in/mbiemann) ☕
+- [Credly](https://www.credly.com/users/mbiemann) 📇 *some certifications*
 - [Instagram](https://www.instagram.com/mbiemann) 🖼️
 - [Email](mailto:mbiemann@gmail.com) 📧
 
