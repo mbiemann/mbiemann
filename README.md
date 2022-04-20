@@ -16,9 +16,21 @@ Check out some of my professional and personal public virtual places
 
 For me, of course! 😺
 
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+
 - [Python](Python.md)
 - [AWS](AWS.md)
 - [Databricks](Databricks.md)
+
+    </td>
+    <td style="border: none;">
+
 - [Apple](https://www.apple.com)
 - [Via Consulting](https://www.viaconsulting.com.br)
 - [VTEX](https://www.vtex.com)
+
+    </td>
+  </tr>
+</table>
