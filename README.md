@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I hope you are well and safe!
+I hope you are well and safe! 😷
 
 ## Let's keep in touch
 
