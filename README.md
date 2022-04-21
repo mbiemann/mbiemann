@@ -20,7 +20,7 @@ For me, of course! 😺
 
 - [Python](Python.md)
 - [AWS](AWS.md)
-- [Spark](Spark.md)
+- [Apache Spark](Apache_Spark.md)
 - [Databricks](Databricks.md)
 - [Apple](https://www.apple.com)
 - [Via Consulting](https://www.viaconsulting.com.br)
