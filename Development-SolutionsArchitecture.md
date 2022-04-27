@@ -7,6 +7,9 @@
 - App: iOS
 - Web: HTML, CSV, JavaScript (JS), ReactJS, Angular
 
+Useful:
+- https://flickity.metafizzy.co
+
 ## Back-end
 
 - Python, NodeJS
