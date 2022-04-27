@@ -20,9 +20,8 @@ For me, of course! 😺
 
 - [Python](Python.md)
 - [AWS](AWS.md)
-- [Apache Spark](ApacheSpark.md)
-- [Databricks](Databricks.md)
-- [Development & Solutions Architecture](DevelopmentAndSolutionsArchitecture.md)
+- [Apache Spark & Databricks](ApacheSpark-Databricks.md)
+- [Development & Solutions Architecture](Development-SolutionsArchitecture.md)
 - [Apple](https://www.apple.com)
 - [Via Consulting](https://www.viaconsulting.com.br)
 - [VTEX](https://www.vtex.com)
