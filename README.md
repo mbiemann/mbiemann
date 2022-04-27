@@ -22,7 +22,7 @@ For me, of course! 😺
 - [AWS](AWS.md)
 - [Apache Spark](ApacheSpark.md)
 - [Databricks](Databricks.md)
-- [Development](Development.md)
+- [Development & Solutions Architecture](DevelopmentAndSolutionsArchitecture.md)
 - [Apple](https://www.apple.com)
 - [Via Consulting](https://www.viaconsulting.com.br)
 - [VTEX](https://www.vtex.com)
