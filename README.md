@@ -1,3 +1,3 @@
-# 👋 Hi there
+# Hello there 👋
 
-I hope you are well and safe! 😷
+I hope you are well and safe!
